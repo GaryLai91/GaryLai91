@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**GaryLai91/GaryLai91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Gary and I am currently working as a Data Engineer at airasia.com.
 
 - 🌱 I’m currently learning algorithms!
