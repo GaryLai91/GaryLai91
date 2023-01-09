@@ -8,4 +8,7 @@ Classes I have taken:
 - 📡 Computer Networks
 - 💻 Operating Systems
 
+Here is my [LinkedIn profile](https://www.linkedin.com/in/gary-lai-09467447/).
+
 Take a look a my repos, all feedback is welcome!
+
