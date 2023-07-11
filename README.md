@@ -7,6 +7,8 @@ Classes I have taken:
 - 🤖 Artificial Intelligence
 - 📡 Computer Networks
 - 💻 Operating Systems
+- 💲 Machine Learning for Trading
+- ☕ Software Development Process
 
 Here is my [LinkedIn profile](https://www.linkedin.com/in/gary-lai-09467447/).
 
